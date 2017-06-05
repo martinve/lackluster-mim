@@ -1,0 +1,36 @@
+{
+  "name": "p5.play",
+  "homepage": "https://github.com/molleindustria/p5.play",
+  "authors": [
+    "molleindustria"
+  ],
+  "main": "lib/p5.play.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "license": "GPLv2.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "docs",
+    "examples",
+    "theme",
+    "asterisk.png",
+    "yuidoc.json"
+  ],
+  "_release": "1bf3c72fe6",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "1bf3c72fe6b647617373b9b3ea3e419baaef8cfd"
+  },
+  "_source": "https://github.com/molleindustria/p5.play.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/molleindustria/p5.play.git",
+  "_direct": true
+}
